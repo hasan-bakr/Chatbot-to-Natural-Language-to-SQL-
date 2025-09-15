@@ -1,0 +1,4 @@
+__pycache__
+**/db_helper.py
+.env
+app.log
